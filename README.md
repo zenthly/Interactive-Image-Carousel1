@@ -14,7 +14,7 @@ This is an **Interactive Image Carousel** that displays 10 images in a clean, mo
 🔗 Live Demo:[click here ](https://interactive-image-carousel1.netlify.app/)
 . Features
 
-- Displays up to 10 images located in the `images/` folder
+- Displays up to 10 images located in the `images/ ` folder
 - Navigation buttons ("◀" and "▶") to move backward and forward between images
 - Automatic slideshow that changes images every 3 seconds (auto-play)
 - Auto-play resets when users manually navigate images
